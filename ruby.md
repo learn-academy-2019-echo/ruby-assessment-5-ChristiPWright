@@ -5,41 +5,42 @@ Answer the following questions. First, without external resources. Challenge you
 
 1. In what ways are JavaScript and Ruby similar? In what ways are they different?
 
-  Your answer:
+  Your answer: Both are object oriented languages. Javascript has more functional components.
 
-  Researched answer:
+  Researched answer: https://www.educba.com/javascript-vs-ruby/
 
 
 
 2. What is a hash?
 
-  Your answer:
+  Your answer: An object?
 
-  Researched answer:
-
+  Researched answer: A Hash is a dictionary-like collection of unique keys and their values. Also called associative arrays, they are similar to Arrays, but where an Array uses integers as its index, a Hash allows you to use any object type.
+https://ruby-doc.org/core-2.5.1/Hash.html
 
 
 3. What is the testing framework used in Ruby? Describe the process of setting up the testing environment.
 
-  Your answer:
+  Your answer: rspec
 
   Researched answer:
-
+https://github.com/learn-academy-2019-echo/Syllabus/blob/master/ruby/05rb_rspec.md
 
 
 4. Name three possible relationships between objects?
 
-  Your answer:
+  Your answer: has_many, belongs_to, 
 
-  Researched answer:
+  Researched answer: has_one, has_many, belongs_to, 
+  https://api.rubyonrails.org/classes/ActiveRecord/Associations/ClassMethods.html
 
 
 
 5. What is an instance variable? How is it different from other variables in Ruby?
 
-  Your answer:
+  Your answer: a variable used in class constructor 
 
-  Researched answer:
+  Researched answer: a variable defined in a class, for which each instantiated object of the class has a separate copy, or instance. An instance variable is similar to a class variable. 
 
 
 
